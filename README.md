@@ -18,7 +18,6 @@ A passionate QA Engineer from Turkey
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-🪄 Fun Little Animation
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7CF4FF&width=435&lines=Hi+I'm+Feyza!;QA+Engineer+%7C+Automation+Tester;Lifelong+Learner+%F0%9F%92%AA)](https://git.io/typing-svg)
 
+(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjB0ajdobGQwN2lteDg2cjZ6bnduNG95anhndjJvdWJ6YjFqazNsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif)
 
