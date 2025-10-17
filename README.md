@@ -7,8 +7,8 @@ A passionate QA Engineer from Turkey
 - 💬 Ask me about manual and automation testing
 - 📫 How to reach me: feyzanurdemir1717@gmail.com
 
-🌐 Connect with me:
-[LinkedIn] (https://www.linkedin.com/in/feyzanurdemir/)
+🌐 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feyzanurdemir/)
 
 🧩 Tech Stack & Tools:
  
